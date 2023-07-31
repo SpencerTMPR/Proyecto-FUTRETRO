@@ -1,0 +1,87 @@
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ }
+
+ .opacidad{
+    background-color: #00022E;
+    width: 100vw;
+    height: 100vh;
+    opacity: 70%;
+    position: absolute;
+    margin-left: -10px;
+    margin-top: -10px;
+
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: center;
+	align-content: stretch;
+}
+
+.cont{
+    background-color: #BE7200;
+    width: 70vw;
+    height: 70vh;
+    opacity: 70%;
+    border-radius: 10px;
+
+    margin-left: 70px;
+    margin-top: 120px;
+
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: stretch;
+
+    z-index: inherit;
+   
+}
+
+#logo{
+    width: 300px;
+    height: 300px;
+}
+
+p{
+    color: white;
+    font-size: 40px;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+
+    z-index: inherit;
+}
+
+#txt-usuario{
+    width: 300px;
+    height: 20px;
+}
+
+#txt-contra{
+    width: 300px;
+    height: 20px;
+}
+
+p1{
+    color: white;
+    font-size: 20px;
+}
+
+.Boton-login{
+    color: white;
+    background-color: black;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    z-index: inherit;
+
+    margin-left: 80px;
+
+}

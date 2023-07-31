@@ -1,0 +1,76 @@
+body{
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+}
+
+.opacidad{
+    background-color: #00022E;
+    width: 110vw;
+    height: 110vh;
+    opacity: 70%;
+    margin-left: -10px;
+    margin-top: -10px;
+    position: relative;
+   
+}
+
+.titulo{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-left: -50px;
+}
+
+h1{
+    margin-top: 70px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}
+
+.Login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 120px;
+    margin-left: -50px;
+    
+}
+
+h2{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+#txt-usuario{
+    background-color: rgb(252, 252, 252);
+    width: 271px;
+    height: 35px;
+    border-radius: 10px;
+}
+
+#txt-contra{
+    background-color: white;
+    width: 271px;
+    height: 35px;
+    border-radius: 10px;
+}
+
+.Boton-login{
+    width:155px;
+    height: 46px;
+    border-radius: 50px;
+    background-color: #BE7200;
+}
+
+h3{
+    color: white;
+}
+
+#logo{
+    width: 175px;
+    height: 160px;
+    padding: 35px;
+}

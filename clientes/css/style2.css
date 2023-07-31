@@ -1,0 +1,88 @@
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;    
+}
+ 
+ .opacidad{
+     background-color: #00022E;
+     width: 350px;
+     height: 650px;
+     opacity: 80%;
+     position: relative;
+     border-radius: 20px;
+     margin-left: 0px;
+ }
+ 
+ .titulo{
+     color: white;
+     display: flex;
+     justify-content: center;
+     margin-left: -20px;
+     padding: 20px;
+ }
+ 
+ h1{
+     margin-top: 70px;
+     font-family: Georgia, Times, 'Times New Roman', serif;
+ }
+ 
+ h2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    font-size: 25px;
+ }
+
+ .div-registro{
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: stretch;  
+ }
+
+ #txt-nombre{
+    width: 242px;
+    height: 30px;
+    border-radius: 10px;
+ } 
+
+#txt-correo{
+    width: 242px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+#txt-contraseña{
+    width: 242px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+#txt-telefono{
+    width: 242px;
+    height: 30px;
+    border-radius: 10px;
+} 
+
+#txt-usuario{
+    width: 242px;
+    height: 30px;
+    border-radius: 10px;
+} 
+
+.Boton-login{
+    border-radius: 50px;
+    background-color: #BE7200;
+    width: 140px;
+    height: 42px;
+}
+
+#logo{
+    width: 150px;
+    height: 130px;
+    padding: 30px;
+}

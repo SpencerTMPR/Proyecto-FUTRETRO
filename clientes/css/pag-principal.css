@@ -1,0 +1,152 @@
+body{
+    background-color: #BE7200;
+}
+
+#logo{
+    display: flex;
+    justify-content: center;
+    width: 90px;
+    height: 80px;
+}
+
+.div-logo{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',;
+    font-size: 20px;
+}
+
+.txt-arriba{
+    display: flex;
+    justify-content: center;
+}
+
+.cont-blanco{
+    background-color: white;
+    width: 400px;
+    height: 760px;
+    border-radius: 30px;
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+	align-content: stretch;
+}
+
+.cont-abajo{
+    background-color: #020439b9;
+    width: 400px;
+    height: 55px;
+    border-radius: 30px;
+    opacity: 0px;
+
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: stretch;
+}
+
+i{
+    width: 20px;
+    height: 40px;
+    margin-top: 20px;
+    color: white;
+}
+
+.contenedor{
+        display: flex;
+        justify-content: center;
+}
+
+h2{
+    color: white;
+}
+
+.barca{
+    width: 350px;
+    height: 120px;
+    background-color: #8DA5C8;
+    border-radius: 10px;
+    
+}
+
+.spurs{
+    width: 350px;
+    height: 120px;
+    background-color: #8DA5C8;
+    border-radius: 10px;
+}
+
+.olimpia{
+    width: 350px;
+    height: 120px;
+    background-color: #8DA5C8;
+    border-radius: 10px;
+}
+
+#img-barca{
+    width: 110px;
+    height: 120px;
+}
+
+.info1{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: stretch;
+}
+
+p{
+    font-size:35px;
+}
+
+.info2{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: stretch;
+}
+
+#img-spurs{
+    width: 70px;
+    height: 100px;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+p1{
+    font-size:28px;
+    margin-left: -10px;
+}
+
+.info3{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-evenly;
+	align-items:center;
+	
+}
+
+#img-olimpia{
+    width: 105px;
+    height: 105px;
+    padding: 10px;
+    margin-left: -15px;
+}
+
+p2{
+    font-size:35px;
+    margin-left:-5px;
+}

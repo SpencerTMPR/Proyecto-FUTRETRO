@@ -1,0 +1,193 @@
+body{
+    background-color: #BE7200;
+}
+
+#logo{
+    display: flex;
+    justify-content: center;
+    width: 90px;
+    height: 80px;
+}
+
+.div-logo{
+    display: flex;
+    justify-content: center;
+}
+
+.cont-blanco{
+    background-color: white;
+    width: 400px;
+    height: 760px;
+    border-radius: 30px;
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+	align-content: stretch;
+}
+
+.cont-abajo{
+    background-color: #020439b9;
+    width: 400px;
+    height: 55px;
+    border-radius: 30px;
+    opacity: 0px;
+
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: stretch;
+}
+
+i{
+    width: 20px;
+    height: 40px;
+    margin-top: 20px;
+    color: white;
+}
+
+.contenedor{
+        display: flex;
+        justify-content: center;
+}
+
+h2{
+    color: white;
+}
+
+.titulo{
+    width: 350px;
+    height: 45px;
+    background-color: #8DA5C8;
+    border-radius: 10px;
+
+
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: stretch;   
+     margin-top: 30px;
+}
+
+#img-barcatitulo{
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+}
+
+ptitulo{
+    font-size: 30px;
+    margin-left: 50px;
+    
+}
+
+.div-medio{
+    width: 350px;
+    height: 500px;
+    background-color: #8DA5C8;
+    border-radius: 50px;
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: flex-start;
+	align-content: space-between;
+    margin-top: 10px;
+
+}
+
+i1{
+    font-size: 30px;
+    margin-left: -10px;
+}
+
+.Boton-login{
+    width:155px;
+    height: 46px;
+    border-radius: 50px;
+    background-color: #BE7200;
+    border-color: black;
+    margin-top: 10px;
+}
+
+.infotitulo{
+    margin-top: 10px;
+    margin-left: -50px;
+}
+
+i2{
+    color: white;
+    margin-left: 50px;
+}
+
+.div-factura{
+    width: 315px;
+    height: 95px;
+    background-color: #BE7200;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-top:10px;
+
+    display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: stretch;
+	align-content: stretch;
+}
+
+p{
+    font-size: 13px;
+    margin-left:20px;
+}
+
+p1{
+    font-size: 10px;
+    margin-left: 20px;
+}
+h5{
+    
+    margin-top: 2px
+}
+
+.info.de{
+    margin-left: -70px;
+    margin-top: 10px;
+}
+
+h4{
+    margin-top: 0px;
+    margin-left: -px;
+}
+
+
+
+#camisa1{
+    width: 120px;
+    height: 120px;
+}
+
+.div-titulo{
+    display: flex;
+    flex-direction: column;
+}
+
+.prt-arriba{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: stretch;
+	align-content: stretch;
+}
+
+.div-bton{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+

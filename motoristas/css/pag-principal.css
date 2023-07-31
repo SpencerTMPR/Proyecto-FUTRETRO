@@ -1,0 +1,178 @@
+body{
+    background-color: #BE7200;
+}
+
+#logo{
+    display: flex;
+    justify-content: center;
+    width: 90px;
+    height: 80px;
+}
+
+.div-logo{
+    display: flex;
+    justify-content: center;
+}
+
+.cont-blanco{
+    background-color: white;
+    width: 400px;
+    height: 760px;
+    border-radius: 30px;
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+	align-content: stretch;
+}
+
+.cont-abajo{
+    background-color: #020439b9;
+    width: 400px;
+    height: 55px;
+    border-radius: 30px;
+    opacity: 0px;
+
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: stretch;
+}
+
+i{
+    width: 20px;
+    height: 40px;
+    margin-top: 20px;
+    color: white;
+}
+
+.contenedor{
+        display: flex;
+        justify-content: center;
+}
+
+h2{
+    color: white;
+}
+
+
+
+
+
+/** ********DE AQUI EMPIEZA********** /**/
+.titulo{
+    width: 350px;
+    height: 45px;
+    background-color: #8DA5C8;
+    border-radius: 10px;
+
+
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: stretch;    
+}
+
+#img-barcatitulo{
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+}
+
+ptitulo{
+    font-size: 30px;
+    
+}
+
+.lado-iz{
+    margin-top: -10px;
+    margin-left: 10px;
+}
+
+.lado-der{
+width: 105px;
+height: 130px;
+}
+
+.camisa1{
+    width: 350px;
+    height: 120px;
+    background-color: #8DA5C8;
+    border-radius: 10px;
+
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: stretch;
+}
+
+#camisa-1{
+width: 110px;
+height: 120px;
+margin-left: -40px;
+}
+
+
+p{
+    font-size:20px;
+    color: red;
+    margin-left: 140px;
+    margin-top: -52px;
+}
+
+h5{
+    font-size: 16px;
+}
+
+h6{
+    font-size: 14px;
+    margin-top: 50px;
+}
+
+pqo{
+    margin-left: -30px;
+    padding: -5px;
+    color: black;
+    font-size: 18px;
+}
+
+#camisa-2{
+    width: 90px;
+    height: 120px;
+    margin-left: -35px;
+    }
+
+    p1{
+        margin-left: -10px;
+        font-size: 18px;
+    }
+
+    #camisa-3{
+        width: 110px;
+        height: 126px;
+        margin-left: -42px;
+        margin-top: -8px
+        }
+    p2{
+            margin-left:-24px;
+            font-size: 18px;
+            margin-top: 4px;
+        }
+        #camisa-4{
+            width: 100px;
+            height: 120px;
+            margin-left: -42px;
+            margin-top: px
+            }      
+            p3{
+                margin-left:-20px;
+                font-size: 18px;
+                margin-top: 4px;
+            }          
